@@ -7,7 +7,7 @@ format:
     transition: fade
     incremental: true 
     theme: default
-    footer: "Slides URL: <https://bdsi-2025-06-19.patrickli.org> | Canberra time <span id = 'mel-local-time'></span>"
+    footer: "Slides URL: <https://bdsi-talk-2025-06-19.patrickli.org> | Canberra time <span id = 'mel-local-time'></span>"
     logo: figures/ANU_Primary_Horizontal_GoldBlack.png
     include-in-header: 
       - file: slides.js
